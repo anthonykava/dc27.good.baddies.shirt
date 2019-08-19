@@ -4,6 +4,20 @@ Design for T-shirt I wore for a Skytalks 2019 talk inspired by Agent Ray in Hack
 dc27.shirt.work13.flat.finalq.trans.(xcf|png) - Standard style T-shirt graphic<br />
 dc27.shirt.work14.flat.trans.wider7.(xcf|png) - Women's cut T-shirt graphic<br />
 
+<table>
+  <tr>
+    <td>
+      <img border=1 bordercolor="#000" height=300 src="https://raw.githubusercontent.com/anthonykava/dc27.good.baddies.shirt/master/dc27.shirt.work13.flat.finalq.trans.preview.jpg" />
+    </td>
+    <td>
+      &nbsp;
+    </td>
+    <td>
+      <img border=1 bordercolor="#000" height=300 src="https://raw.githubusercontent.com/anthonykava/dc27.good.baddies.shirt/master/dc27.shirt.work14.flat.trans.wider7.preview.jpg" />
+    </td>
+  </tr>
+</table>
+
 T-shirts were ordered from Zazzle.com.  Wider version worked better on the women's cut design because the printable area was wider than the other T-shirt form factors.
 
 Not my best PS/GIMP work, but it's meant to look like cut-out newspaper anyway so that, combined with the medium, hides most sins.
